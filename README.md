@@ -1,4 +1,8 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ffauzan&layout=compact&theme=radical)]()
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ffauzan&layout=compact&theme=radical)]() -->
+
+[![Stat](https://github-readme-stats.vercel.app/api?username=ffauzan&theme=radical&show_icons=true&count_private=true)]()
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ffauzan&theme=radical&card_width=445&layout=compact)]()
 
 <!--
 **ffauzan/ffauzan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
